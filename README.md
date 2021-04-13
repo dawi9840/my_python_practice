@@ -1,7 +1,8 @@
-﻿Test to upload my practice learning python files.
+#Test to upload my practice learning python files.
 
-'''
+
 my commit line for test up load git
+
 git init
 
 git add README.md
@@ -12,4 +13,4 @@ git remote add origin [My Git HTTPS code]
 
 git push -u origin master
 
-'''
+
